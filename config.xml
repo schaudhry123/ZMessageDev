@@ -6,10 +6,10 @@
         id        = "com.zscalerdev.app"
         version   = "1.0.0">
 
-    <name>App</name>
+    <name>ZMessageDev</name>
 
     <description>
-        Sample app - testing
+        Developer version of ZMessage
     </description>
 
     <author href="http://www.zscaler.com" email="schaudhry123@gmail.com">
